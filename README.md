@@ -1,4 +1,13 @@
 # 🧠 Ebbinghaus Forgetting Curve Visualization
+## Pics
+![image](https://github.com/user-attachments/assets/579cea9e-13f6-4f86-b2ec-691b57ec8e63)
+![image](https://github.com/user-attachments/assets/d262d056-e6fa-413e-b5fa-526c3dcf69f0)
+![image](https://github.com/user-attachments/assets/e12d71db-c03d-41c2-b6c8-88ab814f908b)
+![image](https://github.com/user-attachments/assets/5c7a8fb0-9595-4001-9f14-24f640f72541)
+![image](https://github.com/user-attachments/assets/2962cb1e-4e29-4b53-a2be-ee25735e1e70)
+![image](https://github.com/user-attachments/assets/bf55fb9b-e4d1-41d4-8b2b-892d65a704bc)
+![image](https://github.com/user-attachments/assets/b673f09c-0cf0-44ae-aa03-5ffac46485dc)
+![image](https://github.com/user-attachments/assets/f99e7cd4-5f9c-438e-a0ad-81e2ca64e179)
 
 ## 📖 Introduction
 This Python project visualizes the **Ebbinghaus Forgetting Curve**, showing how humans forget information over time without review. It includes:
