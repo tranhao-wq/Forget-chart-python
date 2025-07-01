@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/18c66208-0a8c-4db5-8e68-5b43e38a0c5d)
+
 # 🧠 Ebbinghaus Forgetting Curve Visualization
 ## Pics
 ![image](https://github.com/user-attachments/assets/579cea9e-13f6-4f86-b2ec-691b57ec8e63)
